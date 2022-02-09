@@ -7,6 +7,7 @@ import StreamEdit from "./streams/StreamEdit";
 import StreamDelete from "./streams/StreamDelete";
 import StreamShow from "./streams/StreamShow";
 import Header from "./Header";
+import GoogleAuth from "./GoogleAuth";
 
 const App = () => {
   return (
